@@ -1,13 +1,10 @@
 # dependencies
 /node_modules
-public
 /.pnp
 .pnp.js
 
 # testing
 /coverage
-package-lock.json
-package.json
 # production
 /build
 
