@@ -41,7 +41,7 @@ _Add some screenshots or a demo link to showcase the site_
 
 ## 🔗 Live Demo
 
-[Live Demo](https://your-deployment-url.com)
+[Live Demo](https://camialu.vercel.app/)
 
 ### 🌟 Thank You!
 
