@@ -43,6 +43,7 @@ _Add some screenshots or a demo link to showcase the site_
 
 [Live Demo](https://camialu.vercel.app/)
 
+
 ### 🌟 Thank You!
 
-A huge thanks to **[Company Name]** for the internship opportunity and the learning experience!
+A huge thanks to **[Camiverre]** for the internship opportunity and the learning experience!
